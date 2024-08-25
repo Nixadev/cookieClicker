@@ -1,2 +1,2 @@
-# cookieClicker
+# sheepsClicker
 quite explicit
