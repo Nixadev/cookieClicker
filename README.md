@@ -1,0 +1,2 @@
+# cookieClicker
+quite explicit
